@@ -1,0 +1,10 @@
+Variables = Es un elemento en Java que te sirve para guardar información y darle un valor, para su posterior uso.
+
+strings = Son cadenas de caracteres, que se usan para representar datos textuales.
+
+Funciones = instrucciones para hacer una acción, tu le das las instrucciones y esta te devuelve un valor en báse a esas instrucciones.
+Argumentos = los argumentos son los datos que le pones a una funcion invocada, y esta te dara los resultados que buscas sin tener que escribir más instrucciones, porque estas ya estan dadas en la funcion.
+
+Declaraciones = Es la que toma desiciones. Es una condicional que sirve para realizar unas u otras acciones.
+
+Valores booleanos = Estos son valores en donde tu das informacion y estos solo te pueden decir true o false (si o no).

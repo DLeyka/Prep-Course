@@ -1,0 +1,7 @@
+for = Son estructuras que te permiten realizar una acción en bucle, que tiene que satisfacer las condiciones boooleanas.
+
+&& = "Y" O "AND", analiza dos valores, y si ambos son verdaderos devolvera true, si no saldra false.
+
+|| = "Ó" o "OR", analiza si un valor es true, te da true, y los dos valores es false, devuelve false, y los dos valores es true, devuelve true. 
+
+! = "NOT" o "NO", devuelve el valor contrario a lo que se usa, if (!false), devolvera true.
