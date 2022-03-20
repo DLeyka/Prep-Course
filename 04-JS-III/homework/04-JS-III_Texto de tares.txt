@@ -1,0 +1,2 @@
+Array = es un elemento que tiene una lista de objetos, que tu puedes determinar, puedes usar todos los objetos de la lista a la vez o solo
+	un objeto, además de agregar y quitar otros objetos.
