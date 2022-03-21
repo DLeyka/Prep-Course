@@ -1,0 +1,10 @@
+objetos = Son similares a los arrays, pero los objetos son capaces de almacenar mucha más información.
+
+Propiedades = Son los indices que estan dentro de los objetos.
+
+Métodos = Son las funciones que estan contenidas o dentro de un objeto.
+
+Bucle for = Son estructuras que te permiten realizar una acción en bucle, que tiene que satisfacer las condiciones boooleanas.
+
+Notación de punto vs notación de corchete = el punto quere decir que es literal, esta buscando que la propiedad este dentro del objeto,
+					    mientras que los corchetes pueden tomar variables globales.
