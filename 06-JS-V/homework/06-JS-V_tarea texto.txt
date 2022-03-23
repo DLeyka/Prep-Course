@@ -1,0 +1,4 @@
+Prototype = Es un "Prototipo" ya antes definido de ciertos valores establecidos, es la referencia que se usa cuando en un objeto o varios
+	    objetos no se encuentra una propiedad pero si el proto cuenta con ella, si dara un resultado.
+
+Constructors (de Clases) = Es como una plantilla de datos predefinida que se utilizan a futuro para distintos objetos. 
