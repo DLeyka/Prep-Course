@@ -1,0 +1,2 @@
+Funciones Callback = Una funcion se puede retornar desde otra funcion, se pasa la funcion o cb como un argumento,
+		     se puede guardar en variables, en objetos.
